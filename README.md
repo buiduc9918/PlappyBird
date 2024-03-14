@@ -1,2 +1,2 @@
 # PlappyBird
-# giai nen 5 file Burst,rar thanh 1 tep com.unity.burst@1.8.11 copy tep do vao dia chi library/packagecache/
+# giải nén 5 file com.unity.burst@1.8.11(1-5) thành 1 tệp com.unity.burst@1.8.11 copy tệp đó vào đia chỉ library/packagecache/
